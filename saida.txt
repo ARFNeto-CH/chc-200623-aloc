@@ -1,0 +1,27 @@
+(Usando Ponto** v ) tamanho da struct = 8
+(Usando Ponto   v[] ) vetor de Pontos] tamanho da struct = 4
+
+[Usando vetor de ponteiros para Ponto]  4 Vertices:
+ 0: (0.00,0.00)
+ 1: (0.10,2.50)
+ 2: (0.20,5.00)
+ 3: (0.30,7.50)
+
+v[]: vertices = 6, tam = 52 tam Ponto = 8
+
+[Usando vetor de Ponto]  6 Vertices:
+ 0: (0.00,0.00)
+ 1: (0.10,2.50)
+ 2: (0.20,5.00)
+ 3: (0.30,7.50)
+ 4: (0.40,10.00)
+ 5: (0.50,12.50)
+
+[Mudando o vertice 4 para [12.34,34.56]
+[Usando vetor de Ponto]  6 Vertices:
+ 0: (0.00,0.00)
+ 1: (0.10,2.50)
+ 2: (0.20,5.00)
+ 3: (0.30,7.50)
+ 4: (12.34,34.56)
+ 5: (0.50,12.50)
